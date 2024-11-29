@@ -1,0 +1,114 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    margin:0;
+    padding:0;
+    list-style-type: none;
+}
+span {
+    color:#EC8637;
+}
+.nav_link:hover{
+    background-color: #CD8215;
+}
+.active {
+    background-color: #CD8215;
+    margin:10px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    color:white;
+}
+/* used for linkes found in the footer */
+.ft_link {
+    color:white;
+    padding:10px;
+}
+.nav_link{
+    background-color: #A0BE14;
+    margin:10px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    color:white;
+}
+header,footer {
+    background-color: #252E26;
+    color:white;
+}
+.head_text {
+    color:white;
+    padding-left: 10px;
+    padding-bottom: 60px;
+    font-size: 3em;
+}
+.main_message {
+    font-size:0.8em;
+    line-height:24px;
+}
+.contact_container {
+    width:100%;
+}
+/* used to add distance between lines */
+.lin_height {
+    line-height:24px;
+}
+#message_place {
+    width:75%;
+    height:100px;
+    border:2px solid #EAEAEA;
+    margin: 10px 0 10px 0;
+}
+.fields {
+    width:75%;
+    height:25px;
+    margin: 10px 0 10px 0;
+    border:2px solid #EAEAEA;
+}
+#submit {
+    margin:10px 0;
+    padding:5spx;
+    border:1px solid #EAEAEA;
+    background-color: #fff;
+}
+#theslogan {
+    color:white;
+}
+h2 {
+    color:white;
+    padding:20px 0 10px 0;
+}
+/* used for image in the footer galary */
+.gal_img {
+    width:60px;
+    height:60px;
+    margin:5px;
+}
+.abt_img {
+    float:left;
+    width:60px;
+    height:60px;
+    margin:5px;
+}
+.ft_msg {
+    color:white;
+}
+.main_headers {
+    color:#A0BE14;
+    padding:25px 0 ;
+
+}
+.sidebar_lnk {
+    color:black;
+}
+#contact {
+    color:#A0BE14;
+}
+.green {
+    color:#A0BE14;
+    text-decoration: underline;
+}
+.orange {
+    color:#EC8637;
+    text-decoration: underline;
+}
